@@ -1,0 +1,207 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #aaa;
+}
+
+body#spring {
+    background-color: green;
+}
+
+body#fall {
+    background-color: orangered;
+}
+
+
+#wrap {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header, nav, section, footer {
+    padding: 2%;
+    margin: 2%;
+    background-color: #fff;
+}
+
+header, footer {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-family: Georgia, serif;
+}
+
+#spring header, #spring footer {
+    background-color: lawngreen;
+}
+
+#spring nav a:hover {
+    background-color: darkseagreen;
+}
+
+#spring section {
+    background-color: lime;
+    overflow: auto;
+}
+
+#fall header, #fall footer {
+    background-color: darkorange;
+}
+
+
+nav {
+    background-color: red;
+    text-align: center;
+    font-size: x-large;
+}
+
+#spring nav {
+    background-color: mediumseagreen;
+}
+
+#fall nav {
+    background-color: indianred;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+    
+}
+
+#fall nav a {
+    color: black;
+}
+
+nav a:hover {
+    background-color: #900;
+}
+
+#fall nav a:hover {
+    color: yellow;
+}
+
+#fall section {
+    background-color: coral;
+    overflow: auto;
+}
+
+
+body#summer {
+    background-color: lightskyblue;
+}
+
+#summer nav {
+    background-color: deepskyblue;
+}
+
+#summer nav a:hover {
+    background-color: blueviolet;
+}
+
+#summer nav a:hover {
+    color: greenyellow;
+}
+
+#summer section {
+    background-color: cornflowerblue;
+    overflow: auto;
+}
+
+body#winter {
+    background-color: darkblue;
+}
+
+#winter header {
+    background-color: blueviolet;
+}
+
+#winter nav {
+    background-color: darkviolet;
+}
+
+#winter section {
+    background-color: slateblue;
+    overflow: auto;
+}
+
+#winter nav a:hover {
+    background-color: mediumslateblue;
+}
+
+.skier {
+    float:right;
+    padding: 2px;
+    width: 50%;
+    margin: 0 0 2% 2%;
+}
+
+.fallimg {
+    float:right;
+    padding: 2px;
+    width: 50%;
+    margin: 0 0 2% 2%;
+}
+
+.springimg {
+    float:left;
+    padding: 2px;
+    width: 50%;
+    margin: 0 0 2% 2%;
+}
+
+.raftingimg {
+    float:left;
+    padding: 2px;
+    width: 50%;
+    margin: 0 0 2% 2%;
+}
+
+body {
+    background-color: gray;
+}
+
+header {
+    background-color: dimgray;
+}
+
+nav {
+    background-color: darkgray;
+}
+
+section {
+    background-color: slategray;
+    overflow: auto;
+}
+
+nav a:hover {
+    background-color: grey;
+}
+
+footer {
+    background-color: darkslategray;
+}
+
+.seasons2 {
+    float:left;
+    padding: 2px;
+    width: 50%;
+    margin: 0 0 2% 2%;
+}
+
+
+
+
+
+
