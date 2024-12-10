@@ -1,0 +1,172 @@
+ @import url('https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&family=MedievalSharp&family=Satisfy&display=swap'); 
+
+.medievalsharp-regular {
+  font-family: "MedievalSharp", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header, footer {
+    background-color: darkgray;
+    text-align: center;
+    color: black;
+    font-family: Georgia, serif;
+}
+
+body {
+    margin: 2px;
+    padding: 2px;
+    background-color: black;
+}
+
+#wrap {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header, nav, section, footer {
+    padding: 2%;
+    margin: 2%;
+    background-color: gray;
+}
+
+nav {
+    background-color: darkgray;
+    text-align: center;
+    font-size: x-large;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+    
+}
+
+section {
+    background-color: darkgray;
+    overflow: auto;
+}
+
+footer {
+    background-color: lightgray;
+    text-align: center;
+    color: black;
+    font-family: Georgia, serif;
+}
+
+#Final_page2 iframe {
+    float:left;
+    width: 30%
+    padding: 10px;
+}
+
+#Final_page2 header {
+    background-color: palegoldenrod;
+}
+
+#Final_page2 nav {
+    background-color: gold;
+}
+
+#Final_page2 nav a {
+    color: black;
+}
+
+#Final_page2 section {
+    overflow: auto;
+    background-color: lightgoldenrodyellow;
+}
+
+body#Final_page2 {
+    background-color: yellow;
+}
+
+#Final_page2 footer {
+    background-color: lemonchiffon;
+}
+
+.video {
+    float:left;
+    margin: 20px 20px 20px 0;
+}
+
+.cheese {
+    float:right;
+    width: 30%;
+    padding: 5px;
+}
+
+#Final_page3 header {
+    background-color: rebeccapurple;
+}
+
+#Final_page3 nav {
+    background-color: blueviolet;
+}
+
+#Final_page3 nav a {
+    color: black;
+}
+
+body#Final_page3 {
+    background-color: purple;
+}
+
+#Final_page3 section {
+    background-color: mediumpurple;
+}
+
+#Final_page3 footer {
+    background-color: darkviolet;
+}
+
+.Basil {
+    float:right;
+    width: 30%;
+    height: 350px;
+    padding: 5px;
+}
+
+.land {
+    float: left;
+    width: 50%;
+    height: 325px;
+    padding: 5px;
+}
+
+#Final_page5 header {
+    background-color: green;
+}
+
+#Final_page5 nav {
+    background-color: green;
+}
+
+#Final_page5 nav a {
+    color: black;
+}
+
+body#Final_page5 {
+    background-color: red;
+}
+
+#Final_page5 section{
+    background-color: green;
+}
+
+#Final_page5 footer {
+    background-color: green;
+}
+
+
+
